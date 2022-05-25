@@ -1,9 +1,0 @@
-"name": "KRAKE Token",
-    "website": "https://kraketoken.com",
-    "description": "Krake Token is decentralized community driven utility token on Binance Smart Chain.",
-    "explorer": "https://bscscan.com/token/0xf0817C8B68FE0b42dd6d32BE0222494DA50D7345",
-    "type": "BEP20",
-    "symbol": "KRAKE",
-    "decimals": 18,
-    "status": "active",
-    "id": "0xf0817C8B68FE0b42dd6d32BE0222494DA50D7345"
